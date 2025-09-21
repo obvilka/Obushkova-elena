@@ -24,6 +24,27 @@ body {
   }
 }
 
+@font-face {
+  font-family: 'Coiny 2.0';
+  src: url('Coiny 2.0.eot'); /* IE9 Compat Modes */
+  src: url('Coiny 2.0.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Coiny 2.0.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Coiny 2.0.woff') format('woff'), /* Pretty Modern Browsers */
+       url('Coiny 2.0.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Coiny 2.0.svg#svgFontName') format('svg'); /* Legacy iOS */
+    }
+
+@font-face {
+  font-family: 'Coiny 2.0';
+  src: url('Architun.eot'); /* IE9 Compat Modes */
+  src: url('Architun?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Architun.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Architun.woff') format('woff'), /* Pretty Modern Browsers */
+       url('Architun.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Architun.svg#svgFontName') format('svg'); /* Legacy iOS */
+    }
+
+
 /* Шапка сайта */
 header {
   max-width: 100%; /* Занимаем всю ширину экрана */
